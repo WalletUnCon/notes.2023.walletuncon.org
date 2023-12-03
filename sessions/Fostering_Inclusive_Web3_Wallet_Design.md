@@ -1,8 +1,7 @@
 ---
 Title: Fostering Inclusive Web3 Wallet Design
 Convener(s): Aaliyah Pierre
-Scribe(s):depatchedmode
-Links to any presentation matter:
+Scribe(s): depatchedmode
 ---
 
 ## Notes
