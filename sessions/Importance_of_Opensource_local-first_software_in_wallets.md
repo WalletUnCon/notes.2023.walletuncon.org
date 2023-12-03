@@ -1,8 +1,7 @@
 ---
 Title: Importance of Opensource & local-first software in wallets
 Convener(s): Lefteris (Rotki)
-Scribe(s):depatchedmode
-Links to any presentation matter: 
+Scribe(s): depatchedmode
 ---
 
 ## Notes
