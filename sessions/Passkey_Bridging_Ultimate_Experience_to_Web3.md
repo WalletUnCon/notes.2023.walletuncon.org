@@ -1,5 +1,5 @@
 ---
-Title: Passkey: Bridging Ultimate Experience to Web3
+Title: Passkey - Bridging Ultimate Experience to Web3
 Convener(s): Rui
 Scribe(s): HarryR / CedarMist
 ---
