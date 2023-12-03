@@ -1,8 +1,5 @@
 ---
 Title: The Path to Interoperability for Embedded Wallets
-Convener(s):
-Scribe(s) of talk:
-Links to any presentation matter:
 ---
 
 ## Links
