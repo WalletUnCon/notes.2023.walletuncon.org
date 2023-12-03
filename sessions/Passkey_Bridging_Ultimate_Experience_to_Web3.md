@@ -1,8 +1,7 @@
 ---
 Title: Passkey: Bridging Ultimate Experience to Web3
 Convener(s): Rui
-Scribe(s):github.com HarryR / CedarMist
-Links to any presentation matter:
+Scribe(s): HarryR / CedarMist
 ---
 
 ## Notes
