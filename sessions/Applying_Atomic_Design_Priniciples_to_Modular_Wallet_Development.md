@@ -1,7 +1,7 @@
 ---
 Title: Applying Atomic Design Priniciples to Modular Wallet Development	
-Convener(s): [Harish Raisinghani](https://github.com/harishraisinghani)
-Scribe(s):[Jay Pozo](https://github.com/jaypozo)
+Convener(s): Harish Raisinghani(https://github.com/harishraisinghani)
+Scribe(s): Jay Pozo(https://github.com/jaypozo)
 Links to any presentation matter: https://bit.ly/goldrush-kit-walletuncon
 ---
 
