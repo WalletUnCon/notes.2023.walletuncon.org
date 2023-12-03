@@ -1,7 +1,7 @@
 ---
 Title: Inverting the wallet connection
 Convener(s): Dan Finlay 
-Scribe(s):Ryan Betts (@depatchedmode)
+Scribe(s): Ryan Betts (@depatchedmode)
 ---
 
 ## Notes
