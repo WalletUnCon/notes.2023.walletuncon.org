@@ -1,5 +1,5 @@
 ---
-Title: EOA Alchemy -- migrating to smart contract wallets
+Title: EOA Alchemy - migrating to smart contract wallets
 Convener(s): @lightclient 
 ---
 
