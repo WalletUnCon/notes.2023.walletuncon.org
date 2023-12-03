@@ -1,7 +1,7 @@
 ---
 Title: Wallets **SUCK** at sending money
 Convener(s): Hugo Montenegro 
-Scribe(s):anon and Konrad Urban (kkonrad) 
+Scribe(s): anon and Konrad Urban (kkonrad) 
 ---
 
 ## Notes
