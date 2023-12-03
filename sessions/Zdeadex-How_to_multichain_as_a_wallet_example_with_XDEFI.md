@@ -1,12 +1,9 @@
 ---
 Title: Zdeadex - How to multichain as a wallet, example with XDEFI
-Convener(s): 
-Scribe(s):HarryR - github.com/CedarMist / github.com/HarryR
-Links to any presentation matter:
+Scribe(s): HarryR - github.com/CedarMist / github.com/HarryR
 ---
 
 ## Notes
-
 
 XDEFI Wallet
  - Supports all types of chains
