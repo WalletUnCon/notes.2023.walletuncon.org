@@ -1,5 +1,5 @@
 ---
-Title: **Account Abstraction’s relationship to MEV & Block-Building**
+Title: Account Abstraction’s relationship to MEV & Block-Building
 Convener(s): eshon
 Links to any presentation matter: https://hackmd.io/@evangelion808/rkVwA5VNT
 ---
