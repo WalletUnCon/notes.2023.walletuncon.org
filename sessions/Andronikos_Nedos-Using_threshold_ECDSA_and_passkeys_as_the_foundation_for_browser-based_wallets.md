@@ -1,8 +1,7 @@
 ---
 Title: Using threshold ECDSA and passkeys as the foundation for browser-based wallets
 Convener(s): Andronikos Nedos
-Scribe(s):Ryan Betts (@depatchmode)
-Links to any presentation matter: 
+Scribe(s): Ryan Betts (@depatchmode)
 Also present: Kyle, Hester, Lefteris, Yabir
 ---
 
