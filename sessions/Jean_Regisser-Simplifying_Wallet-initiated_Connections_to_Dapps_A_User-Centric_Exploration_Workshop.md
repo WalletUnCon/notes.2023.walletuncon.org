@@ -1,9 +1,9 @@
-# Notes for session A3 at WalletUncon 2023
-
-Title of talk: Simplifying Wallet-initiated Connections to Dapps: A User-Centric Exploration Workshop
-Convener(s) of talk: Jean Regisser ([@jeanregisser](https://github.com/jeanregisser/))
-Scribe(s) of talk: Tanya (Safe)
+---
+Title: Simplifying Wallet-initiated Connections to Dapps: A User-Centric Exploration Workshop
+Convener(s): Jean Regisser ([@jeanregisser](https://github.com/jeanregisser/))
+Scribe(s):Tanya (Safe)
 Slides: https://docs.google.com/presentation/d/156WKnzDIyMNvzVR4ADvaMJSgetMUNxpSPR9y4QA9FJs/edit?usp=sharing
+---
 
 ## Abstract
 

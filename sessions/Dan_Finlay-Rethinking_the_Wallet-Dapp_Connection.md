@@ -1,15 +1,7 @@
-# Notes for Coffee Break session at WalletUncon 2023
-
-Title of talk: Rethinking the Wallet-Dapp Connection
-Convener(s) of talk: Dan Finlay
-Scribe(s) of talk:
-Links to any presentation matter:
-
-Tips:
-- if you use github or gitlab handles instead of names, that allows scribes and conveners to be easily findable/taggable in threads when these notes get published to the CASA github org)
-- preface remarks with name/handle and org if you WANT to be credited for contributions or ideas. 
-- feel free to call multiple people "anon" if you don't catch their names or they do not give them
-- most scribes love an assist!
+---
+Title: Rethinking the Wallet-Dapp Connection
+Convener(s): Dan Finlay
+---
 
 ## Notes
 
@@ -38,10 +30,3 @@ Tips:
     - but there's some complexity in the UX for multisig 
     - take gnosis safe module for issuing session keys. add a general purpose method for how do get signers to respond to the request for asset permission
     - EIP-3074 is being done by 
-- 
-
-- 
-
-## Links
-
-- [description](https://example.com)

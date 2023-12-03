@@ -1,15 +1,7 @@
-# Notes for session A0 at WalletUncon 2023
-
-Title of talk: Dude, Where’s My Data? Data Wallets to the Rescue
-Convener(s) of talk: Matt Hamilton
-Scribe(s) of talk: ???
-Links to any presentation matter: 
-
-Tips:
-- if you use github or gitlab handles instead of names, that allows scribes and conveners to be easily findable/taggable in threads when these notes get published to the CASA github org)
-- preface remarks with name/handle and org if you WANT to be credited for contributions or ideas. 
-- feel free to call multiple people "anon" if you don't catch their names or they do not give them
-- most scribes love an assist!
+---
+Title: Dude, Where’s My Data? Data Wallets to the Rescue
+Convener(s): Matt Hamilton
+---
 
 ## Notes
 
@@ -44,8 +36,3 @@ Did you consider DAG in this process and how to deal with versioning of data?
 As your data changes on different devices, without sync. Libp2p polytrees could be a solution to sync DAGs.
 OR store it as a list on a smart contract and keep track of the smart contract. 
 OR create a graph of those with one CID to bind them all. 
-
-
-## Links
-
-- [description](https://example.com)

@@ -1,15 +1,12 @@
-# Notes for session D4 at WalletUncon 2023
-
-Title of talk: Zdeadex - How to multichain as a wallet, example with XDEFI
-Convener(s) of talk: 
-Scribe(s) of talk: HarryR - github.com/CedarMist / github.com/HarryR
+---
+Title: Zdeadex - How to multichain as a wallet, example with XDEFI
+Convener(s): 
+Scribe(s):HarryR - github.com/CedarMist / github.com/HarryR
 Links to any presentation matter:
+---
 
-Tips:
-- if you use github or gitlab handles instead of names, that allows scribes and conveners to be easily findable/taggable in threads when these notes get published to the CASA github org)
-- preface remarks with name/handle and org if you WANT to be credited for contributions or ideas. 
-- feel free to call multiple people "anon" if you don't catch their names or they do not give them
-- most scribes love an assist!
+## Notes
+
 
 XDEFI Wallet
  - Supports all types of chains
@@ -23,9 +20,6 @@ It's important to understand about wallet integration. And interoperability.
 The UI/UX, it's not very simple to just show the token and which chain it's on.
 
 What's the future of multi-chain wallets?
-
-
-## Notes
 
 - heirachical notes recommend
     - for capturing flow
@@ -79,5 +73,5 @@ Account abstraction, how can we solve the gas problem. http://rabby.io/ ?
 
 ## Links
 
-- [description](https://example.com)
+
 * https://eips.ethereum.org/EIPS/eip-6963

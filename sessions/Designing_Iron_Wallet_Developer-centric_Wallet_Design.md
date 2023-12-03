@@ -1,7 +1,7 @@
-# Notes for session H1 at WalletUncon 2023
-
-Title of talk: Designing Iron Wallet - a Developer-centric Wallet Design
-Convener(s) of talk: Filipa Ribeiro + José Resende
+---
+Title: Designing Iron Wallet - a Developer-centric Wallet Design
+Convener(s): Filipa Ribeiro + José Resende
+---
 
 ## Notes
 

@@ -1,10 +1,8 @@
-# Notes for session B4 at WalletUncon 2023
-
-Title of talk: Inverting the wallet connection
-Convener(s) of talk: Dan Finlay 
-Scribe(s) of talk: Ryan Betts (@depatchedmode)
-Links to any presentation matter:
-
+---
+Title: Inverting the wallet connection
+Convener(s): Dan Finlay 
+Scribe(s):Ryan Betts (@depatchedmode)
+---
 
 ## Notes
 
@@ -33,6 +31,3 @@ Links to any presentation matter:
     - but there's some complexity in the UX for multisig 
     - take gnosis safe module for issuing session keys. add a general purpose method for how do get signers to respond to the request for asset permission
     - EIP-3074 is being done by 
-- 
-
-- 

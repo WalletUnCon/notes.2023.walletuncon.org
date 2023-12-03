@@ -1,9 +1,8 @@
-# Notes for session G3 at WalletUncon 2023
-
-Title of talk: Wallets **SUCK** at sending money
-Convener(s) of talk: Hugo Montenegro 
-Scribe(s) of talk: anon and Konrad Urban (kkonrad) 
-Links to any presentation matter: 
+---
+Title: Wallets **SUCK** at sending money
+Convener(s): Hugo Montenegro 
+Scribe(s):anon and Konrad Urban (kkonrad) 
+---
 
 ## Notes
 
@@ -20,6 +19,3 @@ Links to any presentation matter:
 - zkp2p from zkemail + link-based payment mechanism with instant offramping
 - projects using links as a wa of transferring funds: request.finance, peanut.to, daimo.xyz, beam wallet.
 
-## Links
-
-- [description](https://example.com)

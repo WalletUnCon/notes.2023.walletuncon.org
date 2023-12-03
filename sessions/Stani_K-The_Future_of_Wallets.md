@@ -1,10 +1,9 @@
-# Notes for session B4 at WalletUncon 2023
-
-Title of talk: Inverting the wallet connection
-Convener(s) of talk: Dan Finlay 
-Scribe(s) of talk: Ryan Betts (@depatchedmode)
+---
+Title: Inverting the wallet connection
+Convener(s): Dan Finlay 
+Scribe(s):Ryan Betts (@depatchedmode)
 Links to any presentation matter:
-
+---
 
 ## Notes
 

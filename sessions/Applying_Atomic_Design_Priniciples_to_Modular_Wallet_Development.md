@@ -1,10 +1,9 @@
-# Notes for session A1 at WalletUncon 2023
-
-Title of talk: Applying Atomic Design Priniciples to Modular Wallet Development	
-Convener(s) of talk: [Harish Raisinghani](https://github.com/harishraisinghani)
-Scribe(s) of talk: [Jay Pozo](https://github.com/jaypozo)
+---
+Title: Applying Atomic Design Priniciples to Modular Wallet Development	
+Convener(s): [Harish Raisinghani](https://github.com/harishraisinghani)
+Scribe(s):[Jay Pozo](https://github.com/jaypozo)
 Links to any presentation matter: https://bit.ly/goldrush-kit-walletuncon
-
+---
 
 ## Notes
 
@@ -27,14 +26,6 @@ React components for your dApp frontend. 200+ Chains. Open-source. Customizable.
 ![organism_multichain_balances](https://hackmd.io/_uploads/Sy3QoAEET.png)
 
 ![goldrush_themes](https://hackmd.io/_uploads/S1UO9CVVT.png)
-
-
-
-
-
-
-
-
 
 ## Links
 

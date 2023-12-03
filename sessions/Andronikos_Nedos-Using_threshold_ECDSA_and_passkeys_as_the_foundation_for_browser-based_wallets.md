@@ -1,10 +1,10 @@
-# Notes for session A4 at WalletUncon 2023
-
-Title of talk: Using threshold ECDSA and passkeys as the foundation for browser-based wallets
-Convener(s) of talk: Andronikos Nedos
-Scribe(s) of talk: Ryan Betts (@depatchmode)
+---
+Title: Using threshold ECDSA and passkeys as the foundation for browser-based wallets
+Convener(s): Andronikos Nedos
+Scribe(s):Ryan Betts (@depatchmode)
 Links to any presentation matter: 
 Also present: Kyle, Hester, Lefteris, Yabir
+---
 
 ## Notes
 
@@ -36,7 +36,3 @@ Also present: Kyle, Hester, Lefteris, Yabir
     - DKG would split shares
     - could a passkey be a holder of a share?
     - OR instead of a mathematical threshold, what about a programmatic threshold? only affordable if off-chain 
-
-## Links
-
-- [description](https://example.com)

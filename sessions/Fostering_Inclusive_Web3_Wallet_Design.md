@@ -1,12 +1,9 @@
-# Notes for session H2 at WalletUncon 2023
-
-Title of talk: Fostering Inclusive Web3 Wallet Design
-Convener(s) of talk: Aaliyah Pierre
-Scribe(s) of talk: depatchedmode
+---
+Title: Fostering Inclusive Web3 Wallet Design
+Convener(s): Aaliyah Pierre
+Scribe(s):depatchedmode
 Links to any presentation matter:
-
-Tips:
-- 
+---
 
 ## Notes
 
@@ -37,7 +34,3 @@ Tips:
     - If they aren't being inclusive on purpose, don't patron them
     - Make space for new voices and diverse perspectives at industry events
     - Do whatever you can to reward and amplify the folks who are actually approaching things with inclusivity in mind
-
-## Links
-
-- [description](https://example.com)
