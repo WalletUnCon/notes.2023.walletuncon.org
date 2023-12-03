@@ -1,8 +1,6 @@
 ---
 Title: How to ask for permission?
-Convener(s): [depatchedmode](https://twitter.com/depatchedmode), [Agost Biro](https://www.agostbiro.net/#contact)
-Scribe(s) of talk:
-Links to any presentation matter:
+Convener(s): depatchedmode, Agost Biro
 ---
 
 ## Notes
@@ -98,6 +96,4 @@ Links to any presentation matter:
 
 ## Links
 
-
 - Emily Starks Talks about secure UI design in browsers - https://emilymstark.com/speaking.html
-- 
