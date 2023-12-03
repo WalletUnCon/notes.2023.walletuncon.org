@@ -1,7 +1,7 @@
 ---
-Title: Simplifying Wallet-initiated Connections to Dapps: A User-Centric Exploration Workshop
+Title: Simplifying Wallet-initiated Connections to Dapps -- A User-Centric Exploration Workshop
 Convener(s): Jean Regisser ([@jeanregisser](https://github.com/jeanregisser/))
-Scribe(s):Tanya (Safe)
+Scribe(s): Tanya (Safe)
 Slides: https://docs.google.com/presentation/d/156WKnzDIyMNvzVR4ADvaMJSgetMUNxpSPR9y4QA9FJs/edit?usp=sharing
 ---
 
@@ -33,10 +33,7 @@ Discussion:
 11. On iOS, some wallets offering a section to explore dapps have to open them in the external browser, to comply with Apple's review guidelines. So injected providers can't be used, unless these wallets build a mobile safari extension.
 12. We could pass the wallet details and connection method (injected provider, WalletConnect, or a future connection mechanism) to the dapp being opened (via URL parameters or User-Agent). Connection libraries (Web3Modal, RainbowKit, Blocknative) could use this information to either directly connect the specified wallet (autoconnect) or show only the wallet when the user taps the connect button.
 
-
 Solution:
 - Create a collaborative effort to create a better onboarding, that would pick the preferred wallet, etc. 
 - Collaborative funding (grant?)
-- Build dapps to align with what other wallets 
-
-
+- Build dapps to align with what other wallets
