@@ -1,8 +1,6 @@
 ---
 Title: Wallet as Self-Sovereign Computer
 Convener(s): QiBing Li
-Scribe(s):
-Links to any presentation matter:
 ---
 
 ## Notes

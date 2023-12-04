@@ -6,12 +6,7 @@ Scribe(s): anon and Konrad Urban (kkonrad)
 
 ## Notes
 
-- Questions: what is a crypto wallets?
-- If you don't have internet then wallets
-- Crypto users are a proper subset of tradfi users
 - PayPal in the late 90s and early 00s had a very strong acquisition mechanism through viral onboarding
-- There are over 100 VC funded wallet startups in crypto
-- Some random comments about cats
 - how to connect crypto and tradfi
     - zkp2p -> decentralised offramp
 - Links are an alternative for dealing with the complexities. Examples: Peanut Protocol, Daimo.xyz, TipLink, Beam Wallet

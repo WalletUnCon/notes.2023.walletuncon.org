@@ -7,15 +7,7 @@ Links to any presentation matter: https://hackmd.io/@evangelion808/rkVwA5VNT
 ## Notes
 
 - 4 main block builders
-    - https://mevboost.pics/
-
-## Links
-
-
-
-## Presentation Notes
-
-
+- https://mevboost.pics/
 
 #### Context 
 - More and more chains are adding support for AA (Ethereum, BSC, Solana, Avax, Polygon, Algorand, Fantom, Gnosis, Tezos, Iotex, Harmony, Fuse, Optimism, Arbitrum, Celo, Near, Cosmos, Aurora, Polkadot, Flow), as well as many [RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers).

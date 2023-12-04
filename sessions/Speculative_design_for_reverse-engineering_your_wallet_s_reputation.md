@@ -1,7 +1,6 @@
 ---
 Title: Speculative design for reverse-engineering your wallet’s reputation
 Convener(s): Ira
-Links to any presentation matter:
 ---
 
 ## Notes

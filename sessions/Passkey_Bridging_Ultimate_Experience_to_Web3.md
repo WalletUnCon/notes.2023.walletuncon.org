@@ -134,8 +134,6 @@ What about MPC?
 - splitting responsibilty key signing to multiple keys
 - can help with social recovery 
 
-
-
 Question:
  - rpId, don't bind to domain names
  - which is a huge security trade-off

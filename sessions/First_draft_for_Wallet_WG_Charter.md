@@ -1,8 +1,6 @@
 ---
 Title: First draft for Wallet WG Charter
 Convener(s): Kyle Den Hartog
-Scribe(s) of talk:
-Links to any presentation matter:
 ---
 
 ## Notes
