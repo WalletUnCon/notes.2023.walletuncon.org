@@ -21,11 +21,11 @@ Links to any presentation matter: https://bit.ly/goldrush-kit-walletuncon
 
 React components for your dApp frontend. 200+ Chains. Open-source. Customizable. Designed to be an extension of your product. 
 
-![organism_nft](https://hackmd.io/_uploads/S1FW5RVN6.png)
-![organism_txn_table](https://hackmd.io/_uploads/r11m9044T.png)
-![organism_multichain_balances](https://hackmd.io/_uploads/Sy3QoAEET.png)
+![organism_nft](images/S1FW5RVN6.png)
+![organism_txn_table](images/r11m9044T.png)
+![organism_multichain_balances](images/Sy3QoAEET.png)
 
-![goldrush_themes](https://hackmd.io/_uploads/S1UO9CVVT.png)
+![goldrush_themes](images/S1UO9CVVT.png)
 
 ## Links
 

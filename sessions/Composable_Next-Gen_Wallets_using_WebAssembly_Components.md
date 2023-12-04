@@ -7,7 +7,7 @@ Convener(s): DougAnderson @douganderson444
 
 - https://github.com/WebAssembly/component-model
 - https://wasmbuilder.app
-- ![IMG_4566](https://hackmd.io/_uploads/rkVV-ZBVT.jpg)
+- ![IMG_4566](images/rkVV-ZBVT.jpg)
 
 Related stuff?
  - https://github.com/RabbyHub/Rabby

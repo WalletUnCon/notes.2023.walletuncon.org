@@ -30,12 +30,12 @@ Links to any presentation matter: https://hackmd.io/@evangelion808/rkVwA5VNT
 - *What if there are malicious miners who attack bundlers?*
    - 4337 addresses this by saying that bundlers can only submit bundles to block producers they trust:
    
-![Screen Shot 2023-11-17 at 11.45.42 AM](https://hackmd.io/_uploads/rkGAdjVE6.png)
+![Screen Shot 2023-11-17 at 11.45.42 AM](images/rkGAdjVE6.png)
 
  - `eth_sendRawTransactionConditional` - Polygon and Arbitum have implemented this API method
  - But from Polygon's https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-15.md:
  
- ![Screen Shot 2023-11-17 at 11.54.15 AM](https://hackmd.io/_uploads/SJPU9iENT.png)
+ ![Screen Shot 2023-11-17 at 11.54.15 AM](images/SJPU9iENT.png)
 
 - From the PIP excerpt above: "The validator trusts that the bundler is not going to spam him, and the bundler trusts that the validator will not front-run the transaction."
 
@@ -50,7 +50,7 @@ Links to any presentation matter: https://hackmd.io/@evangelion808/rkVwA5VNT
 
 The article [Why Must ERC-4337 Bundlers Work with Block Builders](https://medium.com/@blockpi/aa-useroperation-failure-incident-why-is-public-mempool-necessary-to-erc-4337-bundlers-d939d6dc8812) talks about nonce collision attacks in bundlers:
 
-![Screen Shot 2023-11-17 at 12.04.42 PM](https://hackmd.io/_uploads/rJbCpjVN6.png)
+![Screen Shot 2023-11-17 at 12.04.42 PM](images/rJbCpjVN6.png)
 
 - *To summarize the article:*
 
